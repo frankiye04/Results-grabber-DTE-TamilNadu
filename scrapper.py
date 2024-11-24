@@ -1,3 +1,4 @@
+#Install selenium using CMD (pip install selenium pillow).
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
